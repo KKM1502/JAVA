@@ -33,6 +33,7 @@ public class Q039 {
 			}
 		}
 		System.out.printf("%d",sum);
+		scan.close();
 		
 	}
 

@@ -36,7 +36,7 @@ public class Q036 {
 		for (int i = start; i < end+1; i=i+plus) {
 			System.out.println(i);
 		}
-		
+		scan.close();
 		
 	}
 }

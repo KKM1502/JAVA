@@ -126,6 +126,7 @@ public class Q041 {
 		}
 		
 		System.out.printf("%d년 %d월 %d일은 %,d일째 되는 날이고 %s입니다.",input_y,input_m,input_d,days,result);
+		scan.close();
 	}//main
 	
 	

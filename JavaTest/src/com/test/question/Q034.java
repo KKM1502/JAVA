@@ -52,6 +52,7 @@ public class Q034 {
 			d_day.add(Calendar.DATE,7-d_day.get(Calendar.DAY_OF_WEEK));
 			System.out.printf("이동한 날짜는 '%tF' 입니다",d_day);
 		}
+		scan.close();
 	}
 		
 }

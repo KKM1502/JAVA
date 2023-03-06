@@ -38,6 +38,6 @@ public class Q035 {
 		
 		for (int i = 0; i < num; i++) {
 			System.out.printf("%s´Ô ¾È³çÇÏ¼¼¿ä~\n",input);
-		}
+		}scan.close();
 	}	
 }

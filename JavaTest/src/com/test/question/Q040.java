@@ -52,6 +52,7 @@ import java.util.Scanner;
 
 			}
 			System.out.printf("%d",sum);
+			scan.close();
 			
 		}
 	

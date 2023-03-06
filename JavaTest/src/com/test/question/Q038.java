@@ -27,7 +27,8 @@ public class Q038 {
 			}//È¦¼ö
 		}
 		System.out.printf("Â¦¼ö %d°³ÀÇ ÇÕ: %d\nÈ¦¼ö %d°³ÀÇ ÇÕ: %d",input-count,sum2,count,sum1);
+		scan.close();
 	}
-
+	
 
 }
